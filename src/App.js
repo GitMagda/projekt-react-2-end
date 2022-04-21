@@ -74,10 +74,3 @@ class App extends Component {
   }
 }
 export default App;
-
-{
-  /* <Amount></Amount>
-          <Convert></Convert>
-          <outcome></outcome>
-        */
-}
